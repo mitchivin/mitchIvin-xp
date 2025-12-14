@@ -34,7 +34,3 @@ The original source code and unique implementation for this project are propriet
 ## A Note on Unauthorized Copies
 
 If you have seen this project hosted on any domain other than **mitchivin.com**, it is a stolen copy. These unauthorized versions are often broken, incomplete, and do not represent the quality of the final work.
-
-## Contact
-
-For any inquiries regarding the original implementation, please contact Mitch Ivin at `mitchellivin@gmail.com`.
