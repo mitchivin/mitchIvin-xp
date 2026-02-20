@@ -1,6 +1,6 @@
 # MitchIvin XP
 
-<img width="1918" height="1079" alt="Screenshot 2025-12-31 113357" src="https://github.com/user-attachments/assets/887abf96-f5c9-47d8-a680-612ecc7138dc" />
+<img width="1400" height="910" alt="gitxp1" src="https://github.com/user-attachments/assets/32932952-6caf-4dc2-9660-5cd21ad2f44c" />
 
 ---
 
@@ -17,6 +17,8 @@ I am considering releasing an official, cleaned-up open-source version in the fu
 ## Project Overview
 
 MitchIvin XP is an interactive web-based simulation of the Windows XP desktop environment, created by Mitch Ivin for portfolio and demonstration purposes.
+
+<img width="1400" height="910" alt="gitxp3" src="https://github.com/user-attachments/assets/789a9446-e2b5-4c72-9abf-24f5a85fd1ef" />
 
 ## Disclaimer Regarding Assets
 
