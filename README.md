@@ -1,40 +1,46 @@
 # MitchIvin XP
 
-<img width="1400" height="910" alt="gitxp1" src="https://github.com/user-attachments/assets/32932952-6caf-4dc2-9660-5cd21ad2f44c" />
+An interactive **Windows XP desktop** portfolio in the browser. Boot the machine, open apps, and look through design and UI work by [Mitch Ivin](https://mitchivin.com/).
 
----
+Live at [mitchivin.com](https://mitchivin.com/).
 
-### [Launch MitchIvin XP](https://mitchivin.com/)
+Vanilla HTML / CSS / ES modules. Window chrome and controls use self-hosted [XP.css](https://botoxparty.github.io/XP.css/). No framework, no runtime deps.
 
----
+<p align="center">
+  <img width="1920" height="1080" alt="mitchIvinXp1" src="https://github.com/user-attachments/assets/d8cf13a6-1a20-48b8-b2e0-b5a0aee00444" />
+  &nbsp;
+  <img width="1920" height="1080" alt="mitchIvinXp2" src="https://github.com/user-attachments/assets/835830ff-ea33-434d-a2e0-5fb6fbfe3a6f" />
+</p>
 
-## Where is the Source Code?
+## Features
 
-You might be here looking for the source code. Unfortunately, due to repeated instances of this project being stolen and misrepresented in a broken, incomplete state, I've decided to keep the code for this version private for now.
+- Boot and login into a full desktop shell (Start menu, taskbar, system tray)
+- Custom window manager: drag, resize, minimize, maximize, restore, focus stacking
+- Portfolio: About, Projects, Resume, Contact, Image Viewer
+- Desktop apps: Mitch Boy Color, MiPod Classic, DoodleDev, Media Player, Paint, Command Prompt, World of Warcraft
+- Desktop and mobile (portrait phones; landscape blocked)
 
-I am considering releasing an official, cleaned-up open-source version in the future. Please be patient and wait for that instead of using unauthorized copies, which reflect poorly on my work and are not representative of the final product.
+## Stack
 
-## Project Overview
+- Vanilla HTML / CSS / ES modules
+- [XP.css](https://botoxparty.github.io/XP.css/) (self-hosted with fonts) for XP UI chrome
+- Custom window manager, Start menu, taskbar, and boot sequence
+- [JS Paint](https://jspaint.app/) (MIT) for Paint
 
-MitchIvin XP is an interactive web-based simulation of the Windows XP desktop environment, created by Mitch Ivin for portfolio and demonstration purposes.
+## Related
 
-<img width="1400" height="910" alt="gitxp3" src="https://github.com/user-attachments/assets/789a9446-e2b5-4c72-9abf-24f5a85fd1ef" />
+- [Mitch Boy Color](https://github.com/mitchivin/mitchboy) - Game Boy Color emulator in the browser
+- [MiPod](https://github.com/mitchivin/mipod) - click-wheel music player
 
-## Disclaimer Regarding Assets
+## Credits
 
-This project is a work of parody and is intended for educational and demonstrative purposes only. It is a technical re-creation of a classic operating system interface for the web.
+Built by **[Mitch Ivin](https://mitchivin.com/)**.
 
-All graphical assets, icons, sounds, and any other trademarked materials related to the Windows XP operating system are the property of **Microsoft Corporation**. This project does not claim any ownership of these assets. Their use in the live project is for the purpose of commentary and parody.
+[XP.css](https://botoxparty.github.io/XP.css/) by botoxparty.  
+[JS Paint](https://jspaint.app/) by Isaiah Odhner.
 
-## License and Terms of Use
+Windows XP imagery and trademarks belong to Microsoft. This is a portfolio piece and parody, not an official product.
 
-**Copyright (c) 2025 Mitch Ivin**
+## License
 
-The original source code and unique implementation for this project are proprietary. While I encourage learning from the live site, please respect the following terms:
-
-*   Unauthorized use, reproduction, distribution, or hosting of this project, in whole or in part, is **strictly prohibited**.
-*   The project is **not licensed** for any form of reuse, whether commercial or non-commercial.
-
-## A Note on Unauthorized Copies
-
-If you have seen this project hosted on any domain other than **mitchivin.com**, it is a stolen copy. These unauthorized versions are often broken, incomplete, and do not represent the quality of the final work.
+Source stays private. The live site is the product.
