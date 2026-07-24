@@ -7,9 +7,9 @@ Live at **[mitchivin.com](https://mitchivin.com/)**.
 Vanilla HTML, CSS, and ES modules. Window chrome uses self-hosted [XP.css](https://botoxparty.github.io/XP.css/). No framework, no runtime dependencies.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c141ad7-3cd1-4f93-85bd-c91b888a2252" alt="MitchIvin XP desktop apps including Mi Boy Color and MiPod Classic" width="480" />
+  <img src="https://github.com/user-attachments/assets/6c141ad7-3cd1-4f93-85bd-c91b888a2252" alt="MitchIvin XP desktop apps including Mi Boy Color and MiPod Classic" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/a441f996-a3f8-4bb5-b6e2-2a3b6279de18" alt="MitchIvin XP Windows XP portfolio desktop with Start menu and taskbar" width="480" />
+  <img src="https://github.com/user-attachments/assets/a441f996-a3f8-4bb5-b6e2-2a3b6279de18" alt="MitchIvin XP Windows XP portfolio desktop with Start menu and taskbar" />
 </p>
 
 ## About
