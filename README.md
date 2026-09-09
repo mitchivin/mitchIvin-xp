@@ -1,37 +1,37 @@
 # MitchIvin XP
 
-An interactive Windows XP desktop in the browser by [Mitch Ivin](https://mitchivin.com/). Boot it, log in, dig around.
+An interactive Windows XP desktop in your browser. Explore Mitch Ivin's work, play some music, and stay for a game.
 
-[mitchivin.com](https://mitchivin.com/)
+**[Explore the desktop](https://mitchivin.com/)**
 
-<p align="center">
-<img width="1920" height="1080" alt="xp-desktop" src="https://github.com/user-attachments/assets/1e69210c-a61d-41e7-a939-6db16c622233" />
-</p>
+Works on desktop and phone. Open the site, log in, and dig around.
 
-## About
+![MitchIvin XP desktop with Bliss wallpaper, portfolio shortcuts and the taskbar](assets/xp-desktop.webp)
 
-Luna-era XP shell. Bliss wallpaper, Start menu, taskbar, real windows. Portfolio pages open as programs. Desktop and phone both work. CRT scanlines are on by default.
+## A desktop to explore
 
-## Programs
+- **A portfolio you can open.** Browse My Projects, learn about Mitch, view his resume, or get in touch from the desktop.
+- **Music with a familiar face.** Listen with MiPod Classic or switch between Media Player's Headspace and Corona skins.
+- **A little time to play.** Discover Mi Boy Color, Minesweeper and 3D Pinball, or revisit the World of Warcraft login screen.
+- **More tucked into Start.** Chat with MitchBot in Live Messenger, draw in Paint, or jot something down in Notepad.
+- **Make yourself at home.** Move windows, arrange shortcuts, and explore the menus. Keep the CRT effect on for nostalgia or turn it off for a clearer view.
 
-- About Me, My Projects, Resume, Contact Me, Image Viewer
-- Media Player (Headspace + Corona 9 Series)
-- MiPod Classic
-- Mi Boy Color
-- Live Messenger (MitchBot)
-- Paint, DoodleDev, Notepad, Command Prompt
-- Minesweeper
-- Pinball (3D Pinball for Windows - Space Cadet)
-- World of Warcraft login
+![About Me, My Resume, My Projects and Contact Me open together with the Start menu](assets/xp-main-apps.webp)
 
-<p align="center">
-<img width="1920" height="1080" alt="xp-main-apps" src="https://github.com/user-attachments/assets/7df399f9-b8e7-4778-92eb-cfd60104f57c" />
-</p>
+## Get started
+
+1. Open [mitchivin.com](https://mitchivin.com/) and select Mitch's login tile.
+2. Double-click a desktop icon, or double-tap on your phone.
+3. Open Start to find more programs. Right-click on desktop or long-press on phone for context menus.
+
+Some programs are available on desktop only.
+
+This repository contains public product information. The application source is not published here.
 
 ## Related
 
-- [Mi Boy Color](https://github.com/mitchivin/miboy): handheld shell
-- [MiPod](https://github.com/mitchivin/mipod): click-wheel shell
+- [Mi Boy Color](https://github.com/mitchivin/miboy)
+- [MiPod](https://github.com/mitchivin/mipod)
 
 ## Credits
 
@@ -49,6 +49,4 @@ Built by [Mitch Ivin](https://mitchivin.com/).
 
 Game Boy and Game Boy Color trademarks belong to Nintendo. Windows XP imagery, sounds, and trademarks belong to Microsoft Corporation. World of Warcraft Vanilla imagery and audio belong to Blizzard Entertainment. Portfolio piece and parody, not an official product.
 
-## License
-
-Source stays private.
+Screenshots captured at 1920×1080 with the CRT effect turned off.
