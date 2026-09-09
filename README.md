@@ -8,13 +8,13 @@ Works on desktop and phone. Open the site, log in, and dig around.
 
 ![MitchIvin XP desktop with Bliss wallpaper, portfolio shortcuts and the taskbar](assets/xp-desktop.webp)
 
-## A desktop to explore
+## On the desktop
 
-- **A portfolio you can open.** Browse My Projects, learn about Mitch, view his resume, or get in touch from the desktop.
-- **Music with a familiar face.** Listen with MiPod Classic or switch between Media Player's Headspace and Corona skins.
-- **A little time to play.** Discover Mi Boy Color, Minesweeper and 3D Pinball, or revisit the World of Warcraft login screen.
-- **More tucked into Start.** Chat with MitchBot in Live Messenger, draw in Paint, or jot something down in Notepad.
-- **Make yourself at home.** Move windows, arrange shortcuts, and explore the menus. Keep the CRT effect on for nostalgia or turn it off for a clearer view.
+- **Portfolio.** Browse My Projects, learn about Mitch, view his resume, or get in touch from the desktop.
+- **Music.** Listen with MiPod Classic or switch between Media Player's Headspace and Corona skins.
+- **Games.** Open Mi Boy Color, Minesweeper and 3D Pinball, or revisit the World of Warcraft login screen.
+- **Other programs.** Chat with MitchBot in Live Messenger, draw in Paint, or write a note in Notepad.
+- **Desktop controls.** Move windows, arrange shortcuts, and explore the menus. The CRT effect can be turned on or off.
 
 ![About Me, My Resume, My Projects and Contact Me open together with the Start menu](assets/xp-main-apps.webp)
 
